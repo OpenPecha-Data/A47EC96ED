@@ -1,0 +1,22 @@
+id: A47EC96ED
+title: Toh_425-The_Mahamaya_Tantra-v1
+type: translation
+pechas:
+- I31AF6473
+- I1C96699B
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-08-01T15:48:47.084Z'
+  creationid: S.E.
+  eft-text-id: UT22084-080-009
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_425-The_Mahamaya_Tantra-v1
+alignment_to_base:
+  I31AF6473/6428: '5887'
+  I1C96699B/8335: '5887'
